@@ -1,0 +1,7 @@
+google-api-python-client
+yt-dlp
+torch
+torchaudio==2.8.0
+opencv-python
+silero-vad
+python-dotenv
