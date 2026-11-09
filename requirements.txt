@@ -4,4 +4,6 @@ torch
 torchaudio==2.8.0
 opencv-python
 silero-vad
+soundfile
+groq
 python-dotenv
